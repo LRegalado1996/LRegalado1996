@@ -63,6 +63,9 @@ Code is just the means; the goal is **to build something worthwhile together**.
 ---
 
 <p align="center">
+  <a href="https://lucasregalado.com">
+    <img src="https://img.shields.io/badge/Website-lucasregalado.com-c6f432?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/lucas-regalado/">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas_Regalado-blue?logo=linkedin&style=for-the-badge" />
   </a>
